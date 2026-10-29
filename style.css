@@ -1,0 +1,29 @@
+p{
+    color: red;
+    font-weight: 400;
+}
+h1{
+    color: lightgreen;
+    margin-top: 0px;
+    font-style: italic;
+    padding-top: 100px;
+    
+}
+button{
+    background-color: lightgreen;
+    padding: 10px;
+    border: 10px;
+    margin: 8px;
+}
+.hero{
+    margin: 0px;
+    height: 400px;
+    text-align: center;
+    align-items: center;
+}
+body{
+    background-image: url(pic.jpg);
+    background-repeat: no-repeat;
+    margin: opx;
+    padding-top: 0px;
+}
